@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm Jody 👋</h1>
 <p align="center">
-  <img src="https://jhamberr.github.io/jhamberr/jhamberr/blob/main/images/indexImage.html" alt="banner" width="100%" />
+  https://jhamberr.github.io/jhamberr/jhamberr/blob/main/images/indexImage.html
 </p>
 
 <p align="center">
