@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [View my HTML page](https://jhamberr.github.io/jhamberr/images/indexImage.html)
 
 </p>
-
+[View my HTML page](https://jhamberr.github.io/jhamberr/images/indexImage.html)
 <p align="center">
   I'm a passionate developer who's always eager to learn new skills and technologies.
 </p>
