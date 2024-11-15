@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github.com/jhamberr/jhamberr/blob/main/images/BGImage2.jpg" alt="banner" width="100%" />
+  <img src="https://github.com/jhamberr/jhamberr/blob/main/images/BGImage2Words.png" alt="banner" width="100%" />
 </p>
 
 <p align="center">
