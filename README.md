@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm Jody 👋</h1>
 <p align="center">
-  https://jhamberr.github.io/jhamberr/jhamberr/blob/main/images/indexImage.html
+[View my HTML page](https://jhamberr.github.io/jhamberr/jhamberr/images/indexImage.html)
+
 </p>
 
 <p align="center">
