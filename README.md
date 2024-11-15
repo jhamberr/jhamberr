@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Jody 👋</h1>
 <p align="center">
-  <img src="[YOUR_BACKGROUND_IMAGE_URL]" alt="banner" width="100%" />
+  <img src="https://github.com/jhamberr/jhamberr/blob/main/images/BGImage1.jpg" alt="banner" width="100%" />
 </p>
 
 <p align="center">
