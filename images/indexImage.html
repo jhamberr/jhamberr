@@ -1,1 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Text on Background Image</title>
+<style>
+  .background-image {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .background-image img {
+    width: 100%;
+    height: auto;
+  }
+  .text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 2em;
+    font-weight: bold;
+  }
+</style>
+</head>
+<body>
+
+<div class="background-image">
+  <img src="images/newbg.png" alt="Background">
+  <div class="text-overlay">Hi, I'm Ritik<br>A Web Developer in making</div>
+</div>
+
+</body>
+</html>
 
