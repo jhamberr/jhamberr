@@ -49,12 +49,12 @@ Here are some ideas to get you started:
 ---
 
 ### 💬 About Me
-- 🔭 I’m currently working on [Your Project or Role]
-- 🌱 I’m currently learning [Technologies or Skills]
-- 👯 I’m looking to collaborate on [Projects]
-- 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Email or Social Links]
-- ⚡ Fun fact: [Fun fact about you]
+- 🔭 I’m currently working on:
+- 🌱 I’m currently learning:
+- 👯 I’m looking to collaborate on:
+- 💬 Ask me about:
+- 📫 How to reach me:
+
 
 ---
 
