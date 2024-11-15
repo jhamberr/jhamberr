@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi, I'm Jody 👋</h1>
 <p align="center">
-[View my HTML page](https://jhamberr.github.io/jhamberr/images/indexImage.html)
+[View my HTML page][View my HTML page](https://jhamberr.github.io/jhamberr/docs/indexImage.html)
+
 
 </p>
-[View my HTML page](https://jhamberr.github.io/jhamberr/images/indexImage.html)
+
 <p align="center">
   I'm a passionate developer who's always eager to learn new skills and technologies.
 </p>
