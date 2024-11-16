@@ -41,14 +41,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791" />
   <!-- More Icons -->
   <img src="https://img.shields.io/badge/Code-C++-00599C?style=flat-square&logo=c"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-  <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-  <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/Code-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Code-CSS3-1572B6?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/Code-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+  <img src="https://img.shields.io/badge/Script-JavaScript-black?style=flat-square&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Runtime-Nodejs-black?style=flat-square&logo=Node.js"/>
+  <img src="https://img.shields.io/badge/Framework-React-black?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/CMD-Git-black?style=flat-square&logo=git"/>
+  <img src="https://img.shields.io/badge/Version-Control-GitHub-black?style=flat-square&logo=github"/>
 
   <!-- Add more as needed -->
 </p>
