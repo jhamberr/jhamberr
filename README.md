@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Runtime-Nodejs-black?style=flat-square&logo=Node.js"/>
   <img src="https://img.shields.io/badge/Framework-React-black?style=flat-square&logo=react"/>
   <img src="https://img.shields.io/badge/CMD-Git-black?style=flat-square&logo=git"/>
-  <img src="https://img.shields.io/badge/Version-Control-GitHub-black?style=flat-square&logo=github"/>
+  <img src="https://img.shields.io/badge/VersionControl-GitHub-black?style=flat-square&logo=github"/>
 
   <!-- Add more as needed -->
 </p>
