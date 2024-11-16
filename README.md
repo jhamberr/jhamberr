@@ -67,7 +67,14 @@ Here are some ideas to get you started:
 </p> 
 
 ---
+<!-- Optional About me
 
+### 💬 About Me
+- 🔭 I’m currently working on:
+- 🌱 I’m currently learning:
+- 👯 I’m looking to collaborate on:
+- 💬 Ask me about:
+- 📫 How to reach me: -->
 ### 💬 About Me
 - 🔭 I’m currently working on:
 - 🌱 I’m currently learning:
@@ -80,7 +87,6 @@ Here are some ideas to get you started:
 
 ### 🌍 Socials & Contact
 <p align="center">
-  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/[YOUR_TWITTER]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jodyhamberry/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <!-- Add more social media or website links -->
 </p>
