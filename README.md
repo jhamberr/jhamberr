@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ### 🛠 Technology Stack
 <p align="center">
   <!-- Add icons for your technology stack, find icons on sites like https://simpleicons.org/ -->
-  <img src="https://img.shields.io/badge/logo=csharp&logoColor=white&color=239120" />
+  <img src="https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=239120" />
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E" />
   <img src="https://img.shields.io/badge/Framework-ASP.NET-informational?style=flat&logo=.net&logoColor=white&color=512BD4" />
   <img src="https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791" />
