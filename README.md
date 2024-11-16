@@ -19,6 +19,14 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
+ 
+ <img src="https://badges.pufler.dev/visits/jhamberr/jhamberr"/> 
+ <img src="https://badges.pufler.dev/repos/jhamberr"/>
+ <img src="https://badges.pufler.dev/commits/monthly/jhamberr" />
+
+</p>
+
+<p align="center">
   I'm a passionate developer who's always eager to learn new skills and technologies.
 </p>
 
