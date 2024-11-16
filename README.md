@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=jhamberr&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="45%" height="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jhamberr&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="45%" style="padding-bottom: 10px;" height="400"/>
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhamberr&layout=compact&theme=radical" alt="Top Languages" width="45%"  />
 </p>
