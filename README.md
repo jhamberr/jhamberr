@@ -62,6 +62,13 @@ Here are some ideas to get you started:
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhamberr&layout=compact&theme=radical" alt="Top Languages" width="45%" />
 </p>
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jhamberr&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=jhamberr&theme=redical">
+</p> 
 
 ---
 
