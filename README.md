@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jhamberr&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=jhamberr&theme=radical" alt="GitHub Streak" /></a>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=jhamberr&theme=radical" alt="GitHub Streak" />
  <!-- Optional border
  ---
   -->
