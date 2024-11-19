@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 
 
 <p align = "center">
- <img src="http://github-readme-streak-stats.herokuapp.com/?user=jhamberr&theme=radical&timestamp=12345" />
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=jhamberr&theme=radical" />
 </p> 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jhamberr&theme=radical)](https://git.io/streak-stats)
  <!-- Optional border
