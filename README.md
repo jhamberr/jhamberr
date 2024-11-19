@@ -66,8 +66,9 @@ Here are some ideas to get you started:
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jhamberr&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
 
+
 <p align = "center">
- <img src="http://github-readme-streak-stats.herokuapp.com?user=jhamberr&theme=radical" alt="GitHub Streak" />
+ <img src="http://github-readme-streak-stats.herokuapp.com/?user=jhamberr&theme=radical&timestamp=12345" />
 </p> 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jhamberr&theme=radical)](https://git.io/streak-stats)
  <!-- Optional border
